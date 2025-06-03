@@ -5,7 +5,7 @@ Ini adalah repository untuk backend dari DApp (Decentralized Application) yang d
 
 ## 📁 Struktur Folder
 
-```
+
 
 DApp-Backend/
 ├── contracts/         # Smart contract Solidity
@@ -14,7 +14,7 @@ DApp-Backend/
 ├── hardhat.config.js  # Konfigurasi Hardhat
 └── package.json
 
-````
+
 
 ## 🚀 Cara Menjalankan Backend
 
